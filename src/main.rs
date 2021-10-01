@@ -6,6 +6,10 @@ use crate::tree::{
 
 mod list;
 mod tree;
+mod queue;
+mod stack;
+mod stream;
+mod set;
 
 fn main() {
     let mut list = List::new();
